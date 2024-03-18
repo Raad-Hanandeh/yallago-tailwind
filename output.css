@@ -1683,6 +1683,10 @@ video {
     margin-top: 6rem;
   }
 
+  .sm\:mt-28{
+    margin-top: 7rem;
+  }
+
   .sm\:block{
     display: block;
   }
@@ -2342,6 +2346,11 @@ video {
   .xl\:text-lg{
     font-size: 1.125rem;
     line-height: 1.75rem;
+  }
+
+  .xl\:text-7xl{
+    font-size: 4.5rem;
+    line-height: 1;
   }
 
   .xl\:placeholder\:text-xl::-moz-placeholder{
